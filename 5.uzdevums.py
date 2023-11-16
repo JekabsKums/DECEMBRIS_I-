@@ -4,4 +4,4 @@ if time <= 12 :
 elif time <= 17 :
     print('Labdien!')
 else :
-    print('Laabvakar!')
+    print('Labvakar!')
