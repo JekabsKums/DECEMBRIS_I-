@@ -1,4 +1,4 @@
-x=0
-c=int(input('Ievadi savu skaitli:'))
-x=0 + c
-for i in range(1,x,1):
+a=0
+b=int(input('Ievadi savu skaitli:'))
+a=0 + b
+for i in range(1,a,1):
